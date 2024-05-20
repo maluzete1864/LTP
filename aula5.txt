@@ -1,3 +1,6 @@
 maiorIdade(){
         if
 }
+
+
+se usar if, não usar $
